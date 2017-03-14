@@ -271,6 +271,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Front-end Books](https://github.com/kvnol/frontend-books)
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
